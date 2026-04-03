@@ -6,10 +6,8 @@ Este é um projeto desenvolvido para praticar a manipulação do DOM (Document O
 
 ## Tecnologias Utilizadas
 
-O projeto foi construído utilizando as tecnologias fundamentais da web:
-
 * **HTML5**: Estruturação semântica do conteúdo.
-* **CSS3**: Estilização moderna utilizando Google Fonts (Nunito) e layouts responsivos.
+* **CSS3**: Estilização utilizando Google Fonts (Nunito) e layouts responsivos.
 * **JavaScript (ES6+)**: Lógica para cálculo de data atual (`new Date()`), validações de formulário e alteração dinâmica de estilos e imagens.
 
 ## ⚙️ Funcionalidades
@@ -18,7 +16,6 @@ O projeto foi construído utilizando as tecnologias fundamentais da web:
 - [x] **Validação de Erros**: Impede o processamento de anos futuros ou idades irreais (acima de 105 anos).
 - [x] **Diferenciação por Gênero**: Lógica separada para perfis masculinos e femininos.
 - [x] **Faixas Etárias**: Identifica automaticamente se é bebê, criança, jovem, adulto ou idoso.
-- [x] **Interface Adaptável**: O JavaScript manipula o CSS em tempo real para exibir as fotos em um formato circular estilizado.
 
 ## 🛠️ Como executar o projeto
 
