@@ -1,6 +1,6 @@
 # Verificador de Idade Dinâmico
 
-Este é um projeto desenvolvido para praticar a manipulação do DOM (Document Object Model) com JavaScript puro, focado em lógica de programação e estilização dinâmica. O sistema calcula a idade de uma pessoa com base no ano de nascimento e exibe uma imagem correspondente ao gênero e faixa etária detectados.
+Este projeto foi desenvolvido durante o curso de JavaScript do Curso em Vídeo (https://www.cursoemvideo.com/curso/javascript/), desenvolvido para praticar a manipulação do DOM (Document Object Model) com JavaScript puro, focado em lógica de programação e estilização dinâmica. O sistema calcula a idade de uma pessoa com base no ano de nascimento e exibe uma imagem correspondente ao gênero e faixa etária detectados.
 
 👉 **Acesse o site hospedado no Netlify aqui:** [https://app.netlify.com/projects/verif-idade/overview](https://verif-idade.netlify.app/)
 
