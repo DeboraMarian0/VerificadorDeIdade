@@ -10,14 +10,14 @@ Este projeto foi desenvolvido durante o curso de JavaScript do Curso em Vídeo (
 * **CSS3**: Estilização utilizando Google Fonts (Nunito) e layouts responsivos.
 * **JavaScript (ES6+)**: Lógica para cálculo de data atual (`new Date()`), validações de formulário e alteração dinâmica de estilos e imagens.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - [x] **Cálculo automático**: Identifica o ano atual do sistema para calcular a idade exata.
 - [x] **Validação de Erros**: Impede o processamento de anos futuros ou idades irreais (acima de 105 anos).
 - [x] **Diferenciação por Gênero**: Lógica separada para perfis masculinos e femininos.
 - [x] **Faixas Etárias**: Identifica automaticamente se é bebê, criança, jovem, adulto ou idoso.
 
-## 🛠️ Como executar o projeto
+## Como executar o projeto
 
 Faça o clone deste repositório:
    ```bash
