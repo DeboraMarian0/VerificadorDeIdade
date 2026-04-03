@@ -24,4 +24,4 @@ O projeto foi construído utilizando as tecnologias fundamentais da web:
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+   git clone https://github.com/DeboraMarian0/VerificadorDeIdade.git
