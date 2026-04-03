@@ -19,6 +19,6 @@ Este projeto foi desenvolvido durante o curso de JavaScript do Curso em Vídeo (
 
 ## 🛠️ Como executar o projeto
 
-1. Faça o clone deste repositório:
+Faça o clone deste repositório:
    ```bash
    git clone https://github.com/DeboraMarian0/VerificadorDeIdade.git
