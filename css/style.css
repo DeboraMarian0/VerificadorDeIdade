@@ -1,0 +1,50 @@
+body {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 18px;
+    background-color: rgb(194, 194, 247);
+}
+
+.container {
+    max-width: 580px;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.formulario {
+    background-color: #fff;
+    padding: 2rem 2rem 0.2rem;
+    border-radius: 1rem;
+    line-height: 2rem;
+}
+
+#botao {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+/* #img {
+    max-width: 100%;
+    width: 25rem;
+    height: 25rem;
+    background-size: cover; 
+    border-radius: 30rem;
+    
+} */
+
+footer {
+    text-align: center;
+    color: #fff;
+    margin-top: 1rem;
+}
